@@ -26,6 +26,8 @@ Here are a few projects that showcase my work and skills. Feel free to explore t
 - **[Gokul Properties](#)**: A comprehensive property management solution.
 - **[TradeOnPips](#)**: A real-time trading platform.
 - **[Nily](#)**: A user-friendly inventory management system.
+- **[Business Class](#)**: A POS management system.
+- **[BigValue Travel](#)**: A flight,hotel and car booking system.
 
 ---
 
