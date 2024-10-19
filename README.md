@@ -1,4 +1,5 @@
 Software Engineer | Laravel | PHP | SQL | MySQL | AngularJS | jQuery | Database Management
+
 Welcome to my GitHub profile!
 I'm a passionate Software Engineer with expertise in a broad range of technologies, including Laravel, PHP, SQL, MySQL, AngularJS, jQuery, and Database Management. This is where I showcase my projects, share knowledge, and contribute to the developer community.
 
